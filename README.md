@@ -10,4 +10,14 @@ Imagen Paletizadora
 
 Ventana Principal De Smart Component 
 
+Anclado, Transportador y Sensor de Caja Lineal
+
 Anclado y Desanclado de los Separadores
+
+Anclado y Desanclado de Palet
+
+Reposicionar las Piezas
+
+Rapid
+
+
