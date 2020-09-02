@@ -1,5 +1,5 @@
 Sistema de Paletizado de tres niveles en Robotstudio con IRB120
-![]jpg.png)
+
 Herramienta
 
 Dimensiones Heramineta
